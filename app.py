@@ -43,7 +43,7 @@ def dog_gif():
         <div class="container">
             <h1><marquee>Welcome to the Funny Dog GIF Page!</marquee></h1>
 
-            <img src="https://i.imgur.com/abcd123.gif" alt="Funny Dog GIF" class="gif-image"> <!-- Replace this with the actual direct image URL -->
+            <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnRoMjNocW9xamh4Mmg0eDR0OGd5ZmhiM2pheG1nazI3ejdlc3JvbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gFW9rRpOkMRBY2KF6s/giphy.gif" alt="Funny Dog GIF" class="gif-image"> <!-- Replace this with the actual direct image URL -->
 
             <div class="marquee-text">
                 <marquee behavior="alternate" direction="left">Enjoy the doggo!</marquee>
